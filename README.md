@@ -5,6 +5,8 @@ Instrucciones:
 
 Instalar node
 
+Instalar nodemon (npm i -g nodemon)
+
 Con node instalado
 
 Clonar el repositorio y en el raiz ejecutar npm install
